@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "username": "test",
+    "password": "test123",
+    "conversations": [
+      {
+        "id": "c1",
+        "messages": [
+          {
+            "from": "user",
+            "text": "Bonjour"
+          },
+          {
+            "from": "bot",
+            "text": "Salut, comment puis-je vous aider ?"
+          },
+          {
+            "from": "user",
+            "text": "Salut IA !"
+          },
+          {
+            "from": "bot",
+            "text": "Je suis une IA simplifiée 👋"
+          }
+        ]
+      }
+    ]
+  }
+]
