@@ -39,4 +39,4 @@ npm run dev
 
 ## Aperçu de l'application
 
-![ChatGPT Like](./assets/chatGPT%20like.jpg)
+![ChatGPT Like](./chatGPT.jpg)
